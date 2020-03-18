@@ -1,7 +1,8 @@
-{
-  "name": "curso-alura-site",
+
+{  
+  "name": "performance-we-site",
   "version": "0.0.1",
-  "author": "Sérgio Lopes",
+  "author": "Pedro Zaluar",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-if": "^2.0.0",
